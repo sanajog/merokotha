@@ -1,0 +1,11 @@
+export { default as DashboardPage } from './DashboardPage/DashboardPage'
+export { default as EditPostPage } from './EditPostPage/EditPostPage'
+export { default as EditProfilePage } from './EditProfilePage/EditProfilePage'
+export { default as FinderPage } from './FinderPage/FinderPage'
+export { default as LandingPage } from './LandingPage/LandingPage'
+export { default as LoginPage } from './LoginPage/LoginPage'
+export { default as MakePostPage } from './MakePostPage/MakePostPage'
+export { default as PostPage } from './PostPage/PostPage'
+export { default as UserDashboardPage } from './UserDashboardPage/UserDashboardPage'
+export { default as UserPage } from './UserPage/UserPage'
+
